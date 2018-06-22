@@ -30,6 +30,7 @@ module.exports = {
     'space-before-function-paren': 0,
     'no-extend-native': 0,
     'camelcase': 0,
+    'indent': 0,
     // allow debugger during development
     'no-debugger': process.env.NODE_ENV === 'production' ? 'error' : 'off'
   }
