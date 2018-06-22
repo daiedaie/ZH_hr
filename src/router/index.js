@@ -3,7 +3,7 @@ import Router from 'vue-router'
 import Login from '@/views/Login'
 import Home from '@/views/Home'
 import UserInfo from '@/views/pages/UserInfo'
-import Prove from '@/views/pages/Prove'
+import Prove from '@/views/pages/prove'
 // import HelloWorld from '@/components/HelloWorld'
 
 Vue.use(Router)

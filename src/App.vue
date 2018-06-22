@@ -12,7 +12,8 @@ export default {
       titleData: {
         '/': '登录',
         '/home': '人力资源服务',
-        '/userInfo': '个人信息'
+        '/userInfo': '个人信息',
+        '/prove': '证明开具'
       }
     }
   },
