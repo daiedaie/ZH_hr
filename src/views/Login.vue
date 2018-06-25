@@ -2,6 +2,7 @@
   <div class="login">
     <!-- <x-header @click.native="loginBack">登录</x-header> -->
     <!-- <img src="../assets/img/logo.png"> -->
+    <h1 style="margin-top: 50px">logo</h1>
     <group class="paddingLR10">
       <x-input title="" ref="username" :required="true" placeholder="请输入用户名" :min="4" :max="10" v-model="form.userId">
         <x-icon slot="label" type="person" size="26" style="padding: 5px 10px 0 0"></x-icon>
